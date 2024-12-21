@@ -1,6 +1,8 @@
 # Hackathon Planning 📃
 
-### Venue: [Swarrnim Startup & Innovation University](http://swarrnim.edu.in/)
+### Venue: [Swarrnim Startup & Innovation University](http://swarrnim.edu.in/)  
+
+Tentative Dates: (7 & 8 March 2025)
 
 ## **1. Pre-Planning Stage**
 
@@ -20,21 +22,7 @@
 
 ## **2. Hackathon Planning**
 
-### **Requirement Breakdown**
-
-| **Category** | **Details** | **Estimated Cost (INR)** | **Remarks** |
-| --- | --- | --- | --- |
-| **Event setup** | Physical space for 150-200 participants | ₹1,00,000 | Including seating arrangements, stage setup, lighting, and decor. |
-| **Food** | 3 meals/day + snacks for 200 participants | ₹2,40,000 | ₹600/person/day × 200 participants × 2 days. |
-| **Internet** | High-speed Wi-Fi setup | ₹25,000 | Min 200 Mbps with a 300 connection limit. |
-| **Prizes** | Cash, gadgets, swags | ₹75,000 | Cash prizes, gadgets, and swags based on sponsorship commitments. |
-| **Marketing** | Ads, posters/banners/standees, outreach | ₹20,000 | Digital campaigns alongside traditional methods. |
-| **Swag** | T-shirts, sticker sheets, pens, diaries | ₹40,000 | Based on a cost of ₹200 per participant for 200 participants. |
-| **Logistics** | Tables, chairs, and charging stations | ₹40,000 | Includes rental and setup costs for furniture and charging facilities. |
-| **Judges, Mentors & Guests** | Trophies, goodie bags | ₹50,000 | Includes custom trophies, merchandise, and appreciation certificates for their contributions. |
-| **Core Team Mementos** | Personalized medals, merch, and photo frames | ₹30,000 | Recognition items for core team members, including photo frames and branded hoodies. |
-| **Hackers’ Lanyard Cards** | Personalized ID cards for hackers | ₹20,000 | Includes participant name, team name, and QR codes for networking. |
-| **Total** | **—** | **₹** | **Sum of all estimated costs, including additional items.** |
+### [Estimated Cost Breakdown](EstimatedCostBreakdown.md)
 
 ### **Sponsor Outreach**
 
@@ -43,13 +31,27 @@
 - **Silver Sponsors**: 3-5 sponsors contributing between 25,000 to 50,000 INR.
 - **Community Sponsors**: In-kind contributions (swags, services).
 
+### Benefits of Sponsorship
+
+- Logos on banners & posters, websites, socials
+- Brand Visibility, Brand awareness**,** Networking opportunities
+- Product Launch, Special Discount, Sign Up and Ratings
+- Sponsor Booth & Tracks
+- Stage time ( Platinum & Gold )
+
+### Potential Partners
+
+- **Potential Sponsor (CSR)**:  Tech Mahindra, TCS, Odoo, Accenture, [LNTIMindtree](https://www.ltimindtree.com/), [Azilen Technologies](https://www.azilen.com/), [DEV IT](https://www.devitpl.com/), [Atlassian](https://www.atlassian.com/), SAP
+- **Hackathon Partner :** [MLH](https://mlh.io/)
+- **Tech Sponsor**: Devfolio, Github, Postman, [Solana](https://solana.com/)
+
 ---
 
 ## **4. Tracks and Resources**
 
 - **AI/ML Track**
 - **Web3 Track**
-- **Cybersecurity**
+- **Cybersecurity Track**
 - **Open Innovation Track**
 
 ### Problem statement
