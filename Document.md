@@ -4,6 +4,8 @@
 
 Tentative Dates: (7 & 8 March 2025)
 
+Hackathon Name: Hack with Swarrnim
+
 ## **1. Pre-Planning Stage**
 
 ### **Define Objectives**
